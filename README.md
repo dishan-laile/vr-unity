@@ -1,14 +1,12 @@
 # VR 射击建造综合游戏
 
 ## 项目演示视频
-<video controls width="850">
-  <source src="https://hmleadnewszds.oss-cn-hangzhou.aliyuncs.com/VR.mp4" type="video/mp4">
-  浏览器不支持内嵌播放可复制链接观看：
+
   https://hmleadnewszds.oss-cn-hangzhou.aliyuncs.com/VR.mp4
-</video>
+
 
 ## 项目介绍
-本人独立用 Unity 做的一款VR综合小游戏，包含射击打怪、自由建造、物理滑翔三个核心模块，全程自己拆解需求、写逻辑、调参数，独立自主完成系统架构，大概手写了3500多行C#代码，没有套用完整成品模板。
+本人独立用 Unity 做的一款VR综合小游戏，包含射击打怪、自由建造、物理滑翔三个核心模块，全程自己拆解需求、写逻辑、调参数，独立自主完成系统架构，工程量在4000行左右C#代码，没有套用完整成品模板。
 
 核心技术特征：
 - **模块化架构**：武器系统、建造系统、滑翔系统、敌人 AI、场景管理等为独立模块，通过全局管理脚本进行解耦。
