@@ -1,0 +1,6 @@
+Hovl Studio的特效类插件支持URP(LWRP)/HDRP的教程：
+1，先导入目录里的支持包插件；
+2，在\Assets\Hovl Studio\Render Pipelines support\目录下给出了各Unity版本的支持包，选择对应的支持包安装。如双击无法安装，则使用Assets->Import package->Custom Package...
+3，安装完成后，Tools->RP Changer for Hovl Studio Assets，选择对应的渲染管线即可。
+4，打开Demo场景，特效粒子已经可以正确显示了！
+注意：Demo场景里的模型如plane等不会被支持包更新（这些仅用于特效的辅助展示），因此可能还是显示粉色。只需要选中该模型将Shader更改为对应渲染管线下的Lit着色器即可。
