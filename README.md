@@ -2,7 +2,7 @@
 
 ## 项目演示视频
 
-  https://hmleadnewszds.oss-cn-hangzhou.aliyuncs.com/VR.mp4
+ 【unity客户端实习求职作品】https://www.bilibili.com/video/BV1XpL46KEP2?vd_source=833dcb254e65b0661d11ae9d4f38f13f
 
 
 ## 项目介绍
